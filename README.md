@@ -5,10 +5,10 @@ Powerline theme for tmux
 ### Features
 
 - ⚡️ Powerline theme
--  Session tab
--  Gitmux
--  Current time 
--  Snazzy Tea Icon
+- 🗂️ Session tab
+- 🔄 Gitmux
+- 🕒  Current time 
+- 🍵 Snazzy Tea Icon
 
 ### Installation
 
